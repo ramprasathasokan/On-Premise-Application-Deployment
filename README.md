@@ -1,5 +1,9 @@
 # k8s-rancher-harness-demo
 
+## YouTube Walkthrough Link
+
+https://youtu.be/FMxPRegLg-A
+
 ## SSH
 ```
 ssh-keygen -t ecdsa -C username
