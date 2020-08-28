@@ -56,13 +56,13 @@ docker info
 sudo docker run -d --restart=unless-stopped -p 80:80 -p 443:443 -v ~/.rancher-data:/var/lib/rancher rancher/rancher
 ```
 ## ELK Setup
-```
+
 https://bitnami.com/stack/elk/cloud
-```
+
 ## Slack setup
-```
+
 https://api.slack.com
-```
+
 ## Harness Delegate Installation
 ```
 sudo nano harness-delegate.sh
@@ -90,9 +90,9 @@ chmod 700 get_helm.sh
 ./get_helm.sh
 ```
 ## Bitnami Repo in Harness Connectors
-```
+
 https://charts.bitnami.com/bitnami
-```
+
 ## Chart Specs in Application's Service
 
 Chart name: ```bitnami/parse```
