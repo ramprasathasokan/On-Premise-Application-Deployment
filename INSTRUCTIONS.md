@@ -1,9 +1,5 @@
 # On-Premise Application Deployment
 
-## YouTube Walkthrough Link
-
-https://youtu.be/FMxPRegLg-A
-
 ## SSH
 ```
 ssh-keygen -t ecdsa -C username
