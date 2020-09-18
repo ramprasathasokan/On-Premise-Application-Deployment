@@ -3,6 +3,10 @@
 ## YouTube Link
 https://youtu.be/FMxPRegLg-A
 
+## Impact
+
+Ease of deploying a highly available application which is secure and painless to debug.
+
 ## Problem Statement
 
 This project aims at solving on-premise application deployments for the enterprise clients of a leading tech corp. The requirements are managing multiple microservices running across different applications and how to deploy and manage microservices individually. As an example we are going to deploy a containerized web application namely Parse Server Example.
@@ -15,3 +19,7 @@ This project aims at solving on-premise application deployments for the enterpri
 4.	Health Alerts and Monitoring
 5.	Application Security (with source code protection)
 6.	Disaster management
+
+## Tech Stack
+
+GCP, GKE, Rancher, Prometheus, Grafana, ELK Stack, Slack and Harness.
