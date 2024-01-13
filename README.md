@@ -3,17 +3,13 @@
 ## YouTube Link
 https://youtu.be/FMxPRegLg-A
 
-## Impact
+## About
 
-Ease of deploying a highly available application which is secure and painless to debug.
+Demonstrates DevOps lifecycle of a highly available microservice application that is smooth and painless to debug proactively for the developers in a leading tech corp.
 
-## Problem Statement
+## Perks
 
-This project aims at solving on-premise application deployments for the enterprise clients of a leading tech corp. The requirements are managing multiple microservices running across different applications and how to deploy and manage microservices individually. As an example we are going to deploy a containerized web application namely Parse Server Example.
-
-## Issues Addressed
-
-1.	Ease of clustered enterprise level deployments
+1.	Ease of enterprise grade deployments
 2.	Incremental remotely triggered application updates
 3.	Easy remote debugging
 4.	Health Alerts and Monitoring
